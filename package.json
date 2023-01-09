@@ -9,7 +9,7 @@
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open",
-    "build": "webpack --mode production --base=/reactshop/"
+    "build": "webpack --mode production"
   },
   "keywords": [
     "react",
